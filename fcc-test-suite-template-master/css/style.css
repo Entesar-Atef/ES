@@ -1,0 +1,12 @@
+
+@media screen and (min-width: 480px) {
+    #welcome-section
+    {
+        height: 100%;
+    }
+  }
+  
+#navbar
+{
+    position:fixed;
+}
