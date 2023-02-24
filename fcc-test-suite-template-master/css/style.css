@@ -1,0 +1,39 @@
+@media screen and (min-width: 480px) {
+    body {
+      background-color: rgb(144, 203, 238);
+    }
+  }
+
+
+#welcome-section  { 
+    height:100%; 
+    margin:0; 
+    padding:0;
+    color:blue;
+    initial-value:1.0;
+ }
+
+ .why{
+    color:rgb(233, 50, 50);
+    size:10px;
+ }
+
+ ul {
+    float:right;
+  }
+  
+li {
+    display: inline;
+    padding: 20px;
+    background-color: #e09cbc;
+  }
+ 
+  .active {
+    background-color: #04AA6D;
+  }
+
+  @media screen and (max-width: 992px) {
+    .column {
+      width: 50%;
+    }
+  }
